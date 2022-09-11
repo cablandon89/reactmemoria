@@ -1,0 +1,2 @@
+const icons = ['house','magnifying-glass','user','check','image','phone','envelope','star','music','heart','wand-magic-sparkles','bomb','poo','cloud','comment','face-smile','pen-nib','hippo','paperclip','file','bolt','car','cart-shopping','bell','ghost','mug-hot','pen','umbrella','gift','film','gear','trash','headphones','tag','book','lock','print','camera','video','droplet','plus','fire','eye','plane','folder','hand','money-bill','key','thumbs-up','lemon','truck','tree','city','paint-roller','bicycle','brush','ticket','briefcase','person','flask'];
+export default icons;
